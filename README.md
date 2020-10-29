@@ -6,3 +6,4 @@ The columns from left to right indicate each house's :
 * Number of bedrooms
 * Price in dollars 
 
+The first 2 are our features, i.e. the attributes of the data which we feed into our model to make predictions. The last is our target, the value which we're attempting to predict.
